@@ -24,8 +24,8 @@ export default function HomePage() {
 
 	<Image
 
-	src="/profile.png" // Mengambil gambar dari folder public
-	alt="Foto Profil Budi Sanjaya"
+	src="/profile.jpg" // Mengambil gambar dari folder public
+	alt="Foto Profil Niken Ayu Hana Mulia"
 
 	layout="fill"
 
@@ -50,14 +50,14 @@ export default function HomePage() {
 
 	<h1 className="font headingtext-4xl md:text-5xl font-extrabold mb-2">
 
-	Haikal Seventino Tamba
+	Niken Ayu Hana Mulia
 
 	</h1>
 
 	<p className="text-lg md:text-xl text-gray-600">
 
 
-	Mahasiswa | Sains Data | Institut Teknologi Sumatera
+	Siswa | TKJ | SMK N 1 Negeri Katon
 
 	</p>
 

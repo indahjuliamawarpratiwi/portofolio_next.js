@@ -19,9 +19,9 @@ export default function AboutPage() {
 
 	<Image
 
-	src="/profile.png"
+	src="/profile.jpg"
 
-	alt="Foto Profil Budi Sanjaya"
+	alt="Foto Profil Niken Ayu Hana Mulia"
 
 	layout="fill"
 
@@ -39,7 +39,7 @@ export default function AboutPage() {
 
 	<p className="mb-4 text-lg">
 
-	Halo! Nama saya Haikal Seventino Tamba. Saya adalah seorang mahasiswa yang memiliki ketertarikan untuk belajar, mencoba hal-hal baru, dan mengembangkan berbagai kemampuan. Saya senang mengeksplorasi berbagai hal dan menjadikan setiap pengalaman sebagai kesempatan untuk terus berkembang. 
+	Halo! Nama saya Niken Ayu Hana Mulia. Saya adalah seorang siswa yang memiliki ketertarikan untuk belajar, mencoba hal-hal baru, dan mengembangkan berbagai kemampuan. Saya senang mengeksplorasi berbagai hal dan menjadikan setiap pengalaman sebagai kesempatan untuk terus berkembang. 
 
 
 	</p>
